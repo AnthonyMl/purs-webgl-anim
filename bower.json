@@ -1,0 +1,23 @@
+{
+  "name": "webgl_test",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "output"
+  ],
+  "dependencies": {
+    "purescript-prelude": "^5.0.1",
+    "purescript-console": "^5.0.0",
+    "purescript-webgl": "^2.0.0",
+    "purescript-clock": "^2.0.0",
+    "purescript-newtype": "^2.0.0",
+    "purescript-foldable-traversable": "^5.0.1",
+    "purescript-ordered-collections": "^2.0.1",
+    "purescript-refs": "^5.0.0",
+    "purescript-debug": "^5.0.0"
+  },
+  "devDependencies": {
+    "purescript-psci-support": "^5.0.0"
+  }
+}
